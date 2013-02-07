@@ -4,14 +4,14 @@ public class Bullet : MonoBehaviour
 {
     #region Variables
 
-    public float speed = 1f;
-
+    public float speed = 100f;
+	 public float speed2 = 100f;
     #endregion
 
     #region Properties
 
   
-
+	//new online game
     #endregion
 
     #region Unity functions
