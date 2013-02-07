@@ -4,7 +4,7 @@ public class Bullet : MonoBehaviour
 {
     #region Variables
 
-    public float speed = 10f;
+    public float speed = 1f;
 
     #endregion
 
